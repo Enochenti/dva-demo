@@ -1,0 +1,6 @@
+{
+  "entry": "src/index.js",
+  "extraBabelPlugins": [
+    "transform-runtime"
+  ]
+}
